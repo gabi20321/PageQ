@@ -1,0 +1,9 @@
+.vscode/
+__pycache__/
+*.pyc
+
+*.jpg
+*.png
+
+.pio/
+.vscode/
